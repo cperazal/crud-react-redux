@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "2"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "1",
+      "id": 3
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "2",
+      "id": 5
+    },
+    {
+      "nombre": "Morral negro",
+      "precio": "74",
+      "id": 10
+    },
+    {
+      "nombre": "Vaso contigo",
+      "precio": "20",
+      "id": 11
+    },
+    {
+      "nombre": "Cargador",
+      "precio": "17",
+      "id": 12
+    },
+    {
+      "nombre": "Cable",
+      "precio": "12",
+      "id": 14
+    },
+    {
+      "nombre": "Cartera",
+      "precio": "15",
+      "id": 15
+    }
+  ]
+}
